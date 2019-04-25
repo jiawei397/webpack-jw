@@ -1,0 +1,27 @@
+{
+  "name": "webpack-jw",
+  "version": "0.0.1",
+  "description": "工具构建",
+  "author": "jw",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "main": "./index.js",
+  "dependencies": {
+	"babel-core": "*",
+    "babel-eslint": "*",
+    "eslint-config-jw397": "*",
+    "webpack": "^4.17.1",
+    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-cli": "^3.3.1"
+  },
+  "devDependencies": {
+    
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "license": "ISC"
+}
