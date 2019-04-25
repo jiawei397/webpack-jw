@@ -17,7 +17,11 @@
     "webpack-cli": "^3.3.1"
   },
   "devDependencies": {
-    
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiawei397/webpack-jw.git"
   },
   "engines": {
     "node": ">= 4.0.0",
